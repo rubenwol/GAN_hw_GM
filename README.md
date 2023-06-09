@@ -1,2 +1,2 @@
 # GAN_hw_GM
-Implementation of Gan model.
+Implementation of GAN model.
